@@ -3,7 +3,8 @@
   <br>
   <img src="/ReadMe_images/typingGame.PNG">
   <br>
-</p
+</p>
+  목차
   
 ## 프로젝트 소개
 
