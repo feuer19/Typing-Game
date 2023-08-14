@@ -1,7 +1,7 @@
 # TypingGame
 <p align="center">
   <br>
-  <img src="/ReadMe_images/todolist.PNG">
+  <img src="/ReadMe_images/typingGame.PNG">
   <br>
 </p
   
