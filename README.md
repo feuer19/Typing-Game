@@ -16,7 +16,7 @@
 바닐라 자바스크립트를 학습하며 만든 Typing Game입니다.
 
 * 개발 인원: 1명(개인 프로젝트)
-* API: random-word-api.herokuapp.com
+* API: Random word API
 * Deployment: netlify
 </p>
 
